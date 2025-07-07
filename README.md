@@ -6,4 +6,4 @@
 
 :triangular_ruler: Creador de **UX/UI intuitivas**.
 
-:trophy: Domino el *diseño gráfico* y la edición multimedia con la suite Adobe, Adobe XD y Figma8, gestioné contenido en plataformas como ***Open English***, ***Open Mundo*** y optimicé interfaces.
+:trophy: Domino el *diseño gráfico* y la edición multimedia con la suite Adobe, Adobe XD y Figma, gestioné contenido en plataformas como ***Open English***, ***Open Mundo*** y optimicé interfaces.
